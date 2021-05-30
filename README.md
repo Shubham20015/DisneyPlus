@@ -1,4 +1,4 @@
-# Live preview Webpage
+# Live preview of Webpage
 
 ![](public/images/Preview.gif)
 
