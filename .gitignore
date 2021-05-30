@@ -10,6 +10,7 @@
 
 # production
 /build
+.disneyMoviesData.js
 
 # misc
 .DS_Store
